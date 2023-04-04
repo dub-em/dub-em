@@ -19,7 +19,7 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
 - 🔭 Currently specialized in Data Science, Machine Learning, and Artificial Learning.
 - 🌱 Actively delving into Software Development (breaching the gap between solutions and end-users), Big Data and Cybersecurity.
 - 👯 I’m looking to collaborate with other Data Experts to execute humanitarian projects.
-- ⚡ Fun fact: I'm quite athletic, and play both basketball and soccer quite well. 
+- ⚡ Fun fact: I'm quite athletic, and play both basketball and soccer quite well. I also sing very well 😉
 
 ---
 
@@ -53,6 +53,7 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/ibm.svg" title="IBM" alt="IBM" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="30" height="30"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="30" height="30"/>&nbsp;
