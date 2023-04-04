@@ -14,7 +14,17 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Data Scientist.
+
+- 🔭 Currently specialized in Data Science, Machine Learning, and Artificial Learning.
+- 🌱 Actively delving into Software Development (breaching the gap between solutions and end-users), Big Data and Cybersecurity.
+- 👯 I’m looking to collaborate with other Data Experts to execute humanitarian projects.
+
+- :telescope: I’m a Data Scientist (delving into Software Development, Big Data and Cybersecurity).
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 <!--
 **dub-em/dub-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
