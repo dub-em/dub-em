@@ -72,6 +72,8 @@ I am a Data Scientist.
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dub-em&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dub-em)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **dub-em/dub-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
