@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" width="100"/>
+</div>
+
 <!--
 **dub-em/dub-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
