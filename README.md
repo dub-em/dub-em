@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Scientist.
+I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
 
 - 🔭 Currently specialized in Data Science, Machine Learning, and Artificial Learning.
 - 🌱 Actively delving into Software Development (breaching the gap between solutions and end-users), Big Data and Cybersecurity.
@@ -84,4 +84,5 @@ Supporting Links
 -https://github.com/devicons/devicon
 -https://emojipedia.org/most-popular/
 -https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=
+-https://github.com/gilbarbara/logos/tree/main/logos
 -->
