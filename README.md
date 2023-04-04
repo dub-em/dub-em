@@ -63,8 +63,6 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dub-em&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dub-em&layout=compact&theme=dark&background=000000)](https://github.com/dub-em/github-readme-stats)
 
 
