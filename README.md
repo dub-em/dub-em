@@ -16,7 +16,7 @@
 
 I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
 
-- 🔭 Currently specialized in Data Science, Machine Learning, and Artificial Learning.
+- 🔭 Currently specialized in Data Science, Machine and Deep Learning, and Artificial Learning.
 - 🌱 Actively delving into Software Development (breaching the gap between solutions and end-users), Big Data and Cybersecurity.
 - 👯 I’m looking to collaborate with other Data Experts to execute humanitarian projects.
 - ⚡ Fun fact: I'm quite athletic, and play both basketball and soccer quite well. I also sing very well 😉
