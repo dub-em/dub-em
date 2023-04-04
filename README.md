@@ -24,11 +24,12 @@ I am a Data Scientist.
 ---
 
 ### Languages and Tools:
-#### Programming Languages:
+#### Programming (and Query) Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>
 </div>
+
 #### Relevant Python Libraries:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
