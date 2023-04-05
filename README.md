@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Supporting Links
+-https://email.uplers.com/blog/best-practices-for-creating-html-email-links/
 -https://www.sitepoint.com/github-profile-readme/
 -https://github.com/devicons/devicon
 -https://emojipedia.org/most-popular/
