@@ -7,9 +7,11 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/michael-igbomezie-2901a5122/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="michaeligbomezie@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
 ---
 
 ### :man_technologist: About Me :
@@ -80,6 +82,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Supporting Links
+-https://www.sitepoint.com/github-profile-readme/
 -https://github.com/devicons/devicon
 -https://emojipedia.org/most-popular/
 -https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=
