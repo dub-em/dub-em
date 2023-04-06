@@ -36,11 +36,6 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="30" height="30"/>
 </div>
 
-#### Relevant Python Libraries
-<div>
-  
-</div>
-
 #### Scripting and Version Control
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
