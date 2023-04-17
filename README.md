@@ -51,7 +51,7 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
 
 #### Cloud Platform and Container Services
 <div>
-  <img src="https://github.com/dub-em/svg-logos/blob/main/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/dub-em/svg-logos/blob/main/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="30" height="30"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/ibm.svg" title="IBM" alt="IBM" width="30" height="30"/>&nbsp;
