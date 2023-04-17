@@ -38,7 +38,7 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
 
 #### Big Data
 <div>
-  <img src="https://github.com/dub-em/svg-logos/blob/main/Apache_Spark_logo.svg" title="ApacheSpark" alt="ApacheSpark" width="30" height="30"/>
+  <img src="https://github.com/dub-em/svg-logos/blob/main/Apache_Spark_logo.svg" title="ApacheSpark" alt="ApacheSpark" width="40" height="40"/>
 </div>
 
 #### Scripting and Version Control
