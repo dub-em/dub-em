@@ -54,7 +54,7 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
   <img src="https://github.com/dub-em/svg-logos/blob/main/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/dub-em/svg-logos/blob/main/IBM%20Cloud.svg" title="IBMCloud" alt="IBMCloud" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/dub-em/svg-logos/blob/main/IBM%20Cloud.svg" title="IBMCloud" alt="IBMCloud" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="30" height="30"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="30" height="30"/>&nbsp;
