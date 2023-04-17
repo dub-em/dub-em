@@ -38,7 +38,7 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
 
 #### Big Data
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Windows" alt="Windows" width="30" height="30"/>
+  <img src="https://github.com/dub-em/svg-logos/blob/main/Apache_Spark_logo.svg" title="ApacheSpark" alt="ApacheSpark" width="30" height="30"/>
 </div>
 
 #### Scripting and Version Control
@@ -67,8 +67,6 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30"/>
 </div>
-
-https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg
 
 ---
 
