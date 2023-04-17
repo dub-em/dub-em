@@ -36,6 +36,11 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="30" height="30"/>
 </div>
 
+#### Big Data
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Windows" alt="Windows" width="30" height="30"/>
+</div>
+
 #### Scripting and Version Control
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
@@ -62,6 +67,8 @@ I am a Data Scientist with MSc. in Applied Data Science and Business Analytics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30"/>
 </div>
+
+https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg
 
 ---
 
